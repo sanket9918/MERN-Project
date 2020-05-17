@@ -1,0 +1,28 @@
+.hero-main-text{
+    font-size: 2.5em;
+    color: #EFF6F6;
+    
+    &.heading1{
+        font-weight: bold;
+            color: #EFF6F6;
+
+    }
+    &.other{
+        color: #EFF6F6;
+        font-weight: lighter;
+        font-size: 2em;
+    }
+    &.normal{
+        font-weight: lighter;
+           font-size: 2em;
+     color:#1D8257 
+    }
+}
+.row-centered{
+    text-align: center;
+}
+
+.center-tag{
+    margin: auto;
+    text-align: center;
+}
